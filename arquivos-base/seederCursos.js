@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 [
   {
     titulo: 'API com Express',
